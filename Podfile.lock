@@ -1,0 +1,40 @@
+PODS:
+  - BMPlayer/CacheSupport (1.3.0):
+    - BMPlayer/Core
+    - NVActivityIndicatorView (~> 4.7.0)
+    - SnapKit (~> 5.0.0)
+    - VIMediaCache
+  - BMPlayer/Core (1.3.0)
+  - NVActivityIndicatorView (4.7.0):
+    - NVActivityIndicatorView/Presenter (= 4.7.0)
+  - NVActivityIndicatorView/Presenter (4.7.0)
+  - SnapKit (5.0.1)
+  - VIMediaCache (0.4)
+  - youtube-ios-player-helper (0.1.6)
+  - YouTubePlayer (0.4.0)
+
+DEPENDENCIES:
+  - BMPlayer/CacheSupport
+  - youtube-ios-player-helper (~> 0.1.4)
+  - YouTubePlayer
+
+SPEC REPOS:
+  trunk:
+    - BMPlayer
+    - NVActivityIndicatorView
+    - SnapKit
+    - VIMediaCache
+    - youtube-ios-player-helper
+    - YouTubePlayer
+
+SPEC CHECKSUMS:
+  BMPlayer: 92a1c2a721694ba6ab107661e7aff670909671c6
+  NVActivityIndicatorView: b19ddab2576f805cbe0fb2306cba3476e09a1dea
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  VIMediaCache: aa650f82cb114c68a343beb4e67416cf5eb2f3a2
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+
+PODFILE CHECKSUM: 5a49db0041234da414fb28df6c2771e546293f2a
+
+COCOAPODS: 1.8.4
